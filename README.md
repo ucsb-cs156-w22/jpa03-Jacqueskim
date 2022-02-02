@@ -7,6 +7,7 @@ Storybook is here:
 
 Github:
 https://github.com/ucsb-cs156-w22/jpa03-Jacqueskim-docs
+
 https://github.com/ucsb-cs156-w22/jpa03-Jacqueskim-docs-qa
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
